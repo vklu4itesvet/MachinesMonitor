@@ -18,15 +18,11 @@
 
   <ItemGroup>
     <!-- Files not to publish (note that the 'dist' subfolders are re-added below) -->
+    <Compile Remove="App_Data\**" />
+    <Content Remove="App_Data\**" />
     <Content Remove="ClientApp\**" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="App_Data\MachinesMonitorDb.mdf" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="App_Data\" />
+    <EmbeddedResource Remove="App_Data\**" />
+    <None Remove="App_Data\**" />
   </ItemGroup>
 
   <ItemGroup>
