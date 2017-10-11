@@ -1,0 +1,8 @@
+C:\Users\dmitry.m\Documents\MachinesMonitor\Domain.Services.Integration.Tests\bin\Debug\netcoreapp2.0\Domain.Services.Integration.Tests.deps.json
+C:\Users\dmitry.m\Documents\MachinesMonitor\Domain.Services.Integration.Tests\bin\Debug\netcoreapp2.0\Domain.Services.Integration.Tests.dll
+C:\Users\dmitry.m\Documents\MachinesMonitor\Domain.Services.Integration.Tests\obj\Debug\netcoreapp2.0\Domain.Services.Integration.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dmitry.m\Documents\MachinesMonitor\Domain.Services.Integration.Tests\obj\Debug\netcoreapp2.0\Domain.Services.Integration.Tests.AssemblyInfoInputs.cache
+C:\Users\dmitry.m\Documents\MachinesMonitor\Domain.Services.Integration.Tests\obj\Debug\netcoreapp2.0\Domain.Services.Integration.Tests.AssemblyInfo.cs
+C:\Users\dmitry.m\Documents\MachinesMonitor\Domain.Services.Integration.Tests\bin\Debug\netcoreapp2.0\Domain.Services.Integration.Tests.runtimeconfig.json
+C:\Users\dmitry.m\Documents\MachinesMonitor\Domain.Services.Integration.Tests\bin\Debug\netcoreapp2.0\Domain.Services.Integration.Tests.runtimeconfig.dev.json
+C:\Users\dmitry.m\Documents\MachinesMonitor\Domain.Services.Integration.Tests\obj\Debug\netcoreapp2.0\Domain.Services.Integration.Tests.csprojResolveAssemblyReference.cache
